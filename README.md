@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rubel-dev&style=flat-square&color=2f80ed)](https://github.com/rubel-dev)
 [![GitHub followers](https://img.shields.io/github/followers/rubel-dev?style=flat-square&logo=github&label=Followers)](https://github.com/rubel-dev?tab=followers)
-[![Email](https://img.shields.io/badge/Email-rubel.dev1121%40gmail.com-2f80ed?style=flat-square&logo=gmail&logoColor=white)](mailto:rubel.dev1121@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rubel190024%40gmail.com-2f80ed?style=flat-square&logo=gmail&logoColor=white)](mailto:rubel190024@gmail.com)
 
 </div>
 
@@ -21,7 +21,7 @@ I build backend systems and AI-focused applications that turn ideas into working
 - Currently sharpening: backend architecture, FastAPI, SQL/data modeling, AI agents, and production workflows
 - Strong interests: practical AI products, automation, computer vision, NLP, and API design
 - Recruiter signal: consistent project building, public learning, and a broad foundation across software engineering and AI
-- Contact: [rubel.dev1121@gmail.com](mailto:rubel.dev1121@gmail.com)
+- Contact: [rubel190024@gmail.com](mailto:rubel190024@gmail.com)
 
 ## Core Stack
 
@@ -83,6 +83,6 @@ I am building toward roles where backend engineering and AI product development 
 **Open to backend, Python, FastAPI, AI/ML, and junior software engineering opportunities.**
 
 [![GitHub](https://img.shields.io/badge/GitHub-rubel--dev-181717?style=for-the-badge&logo=github)](https://github.com/rubel-dev)
-[![Email](https://img.shields.io/badge/Email-Let's%20connect-2f80ed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubel.dev1121@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Let's%20connect-2f80ed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubel190024@gmail.com)
 
 </div>
